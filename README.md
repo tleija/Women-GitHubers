@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/-Women%20GitHubers-blueviolet.svg)
+﻿![](https://img.shields.io/badge/-Women%20GitHubers-blueviolet.svg)
 
 # Women-GitHubers
 [![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Women-GitHubers.svg)](https://github.com/tapaswenipathak/Women-GitHubers/issues)
