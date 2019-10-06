@@ -313,6 +313,8 @@ Tanya Schlusser ([tanyaschlusser](https://github.com/tanyaschlusser))
 
 Tapasweni Pathak ([tapaswenipathak](https://github.com/tapaswenipathak))
 
+Taylor Leija ([tleija](https://github.com/tleija))
+
 Terian Koscik ([tpinecone](https://github.com/tpinecone))
 
 Una Kravets ([una](https://github.com/una))
